@@ -1,0 +1,3 @@
+#Q4(1)getsizeof() 
+#ans: the getsizeof() function returns the size of the the datatype used for each datatype there is different size and memory ocation allocated 
+#Q4(2) the getsizeof() returns the different isize for different datatype as because for example if you store integer 11 the size for now lets say its 25 bytes but if we store string lets say as SHARAN which ofcourse would have different size as the string mentioned above is much more and may consume a lot more space then the integer 
